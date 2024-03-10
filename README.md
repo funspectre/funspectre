@@ -10,7 +10,7 @@ My expertise spans a diverse range of programming languages and web frameworks, 
 - PHP, Laravel
 - Golang
 - JavaScript, Node.js, Express
-- MongoDB
+- MySQL, MariaDB, MongoDB
 - HTML/CSS
 - SASS
 - Vue, React, Redux
