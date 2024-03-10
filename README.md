@@ -1,16 +1,28 @@
-### Hi there 👋
+# Tobalase Akinyemi - Senior Software Engineer
 
-<!--
-**funspectre/funspectre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm Tobalase Akinyemi, a Senior Software Engineer based in Lagos, Nigeria. I am deeply passionate about the essence of a software engineer's role: to transform problems into automated solutions that meet the crucial trifecta of performance, scalability, and usability. It's this transformative power that ultimately delivers value to society, a principle that drives my dedication to every project I undertake.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+My expertise spans a diverse range of programming languages and web frameworks, including:
+
+- PHP, Laravel
+- Golang
+- JavaScript, Node.js, Express
+- MongoDB
+- HTML/CSS
+- SASS
+- Vue, React, Redux
+
+## DevOps & Tools
+
+I'm well-versed in DevOps practices and tools, enabling seamless deployment and operation. Here are some of the tools I wield proficiently:
+
+- Docker
+- Dokku
+- Gitlab CI
+- Github Actions
+- Kubernetes
+- Prometheus
+- Sentry
